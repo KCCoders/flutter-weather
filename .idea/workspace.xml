@@ -1,48 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6146d298-37ab-454c-80c2-148dd339a400" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/SpartanMB-Black.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/city_background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/location_background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/city_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/loading_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/location_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/services/location.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/services/networking.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/services/weather.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utilities/constants.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scratch.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/city_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/city_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/loading_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/loading_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/location_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/location_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/location.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/location.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/networking.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/networking.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/weather.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/weather.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utilities/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utilities/constants.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,9 +47,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -67,6 +61,18 @@
       <recent name="C:\flutter_projects\my_projects\flutter-weather" />
       <recent name="C:\flutter_projects\my_projects\flutter-weather\lib" />
     </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="scratch.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/scratch.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.scratch.dart" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -79,24 +85,56 @@
       <option name="presentableId" value="Default" />
       <updated>1600531704316</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding starter stuff from appbrewery.">
+      <created>1600535361432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600535361432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding starter stuff from appbrewery." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding starter stuff from appbrewery." />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1600533203514">
+    <state x="-480" y="-823" key="#PSD" timestamp="1600537580752">
       <screen x="-957" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600533203514" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1600533203513">
+    <state x="-480" y="-823" key="#PSD/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600537580752" />
+    <state x="-142" y="-790" key="AndroidProcessChooserDialog" timestamp="1600653289988">
       <screen x="-957" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600533203513" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1600533203513">
+    <state x="-142" y="-790" key="AndroidProcessChooserDialog/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600653289988" />
+    <state x="-402" y="-962" key="CommitChangelistDialog2" timestamp="1600535359924">
       <screen x="-957" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600533203513" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1600533203514">
+    <state x="-402" y="-962" key="CommitChangelistDialog2/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600535359924" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1600654332873">
       <screen x="-957" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600533203514" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600654332873" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1600654332873">
+      <screen x="-957" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600654332873" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1600654332873">
+      <screen x="-957" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600654332873" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1600654332873">
+      <screen x="-957" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600654332873" />
+    <state x="-405" y="-822" key="Vcs.Push.Dialog.v2" timestamp="1600535400945">
+      <screen x="-957" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="-405" y="-822" key="Vcs.Push.Dialog.v2/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600535400945" />
+    <state x="-334" y="-853" width="672" height="678" key="search.everywhere.popup" timestamp="1600634585648">
+      <screen x="-957" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="-334" y="-853" width="672" height="678" key="search.everywhere.popup/0.0.1536.802/963.-1080.1920.1050/-957.-1080.1920.1050@-957.-1080.1920.1050" timestamp="1600634585648" />
   </component>
 </project>
